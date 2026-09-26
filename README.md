@@ -1,6 +1,6 @@
 # CIFAR-100 Transfer Learning and CPU vs GPU Benchmark
 
-Fine-tuning an ImageNet-pretrained **DenseNet121** to classify the 100-class **CIFAR-100** dataset, and measuring training speed and resource utilization of CPU and GPU.
+Fine-tuning an ImageNet-pretrained **DenseNet121** to classify the 100-class **CIFAR-100** dataset and measure training speed and resource utilization of CPU and GPU.
 
 **Tools:** Python · TensorFlow / Keras · Google Colab · Pandas · Matplotlib
 
