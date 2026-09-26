@@ -1,0 +1,20 @@
+{
+  "run_mode": "benchmark",
+  "hardware": "GPU",
+  "device": "Tesla T4",
+  "replicas": 1,
+  "backbone": "DenseNet121",
+  "img_size": 128,
+  "global_batch": 64,
+  "precision": "mixed_float16",
+  "tf_version": "2.20.0",
+  "timestamp": "2026-09-26T03:09:15",
+  "epochs_run": 3,
+  "total_train_time_min": 4.771337265816669,
+  "resumed_from_checkpoint": false,
+  "warmup_epoch_s": 126.71445185399989,
+  "train_images_per_s": 166.8489842241265,
+  "mean_cpu_pct": 61.20000000000001,
+  "best_val_accuracy": null,
+  "inference_images_per_s": 954.9189387556996
+}
